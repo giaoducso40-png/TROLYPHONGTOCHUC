@@ -1,0 +1,16 @@
+{
+  "purpose": "Bộ kỳ vọng kiểm thử nhập–đọc–đối soát, không chứa dữ liệu cá nhân thật",
+  "sequence": ["organizations", "people", "contracts"],
+  "expected": {
+    "organizations": 1,
+    "people": 2,
+    "contracts": 1,
+    "brokenLinks": 0,
+    "duplicateStableIds": 0
+  },
+  "stableIds": {
+    "organizationCode": "UED-DEMO",
+    "staffCodes": ["VC-DEMO-E2E-001", "VC-DEMO-E2E-002"],
+    "contractId": "HD-DEMO-E2E-001"
+  }
+}

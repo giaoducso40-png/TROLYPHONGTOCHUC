@@ -1,0 +1,55 @@
+{
+  "schemaVersion": "UED-TC-2.0.0",
+  "pii": "synthetic-only",
+  "organizations": [
+    {
+      "organizationCode": "DV-MAU-KHOA",
+      "organizationName": "Khoa Minh họa",
+      "organizationLevel": "Khoa",
+      "organizationStatus": "Hoạt động",
+      "effectiveDate": "2026-01-01"
+    }
+  ],
+  "people": [
+    {
+      "personId": "PERSON-MAU-001",
+      "staffCode": "CB-MAU-001",
+      "lecturerCode": "GV-MAU-001",
+      "fullName": "Nguyễn Nhân Sự Mẫu",
+      "birthDate": "1990-01-15",
+      "organizationCode": "DV-MAU-KHOA",
+      "workEmail": "canbo.mau@example.invalid"
+    }
+  ],
+  "contracts": [
+    {
+      "contractId": "CONTRACT-MAU-001",
+      "personId": "PERSON-MAU-001",
+      "contractNumber": "HD-MAU-001",
+      "contractType": "Xác định thời hạn",
+      "startDate": "2026-02-01",
+      "endDate": "2027-01-31",
+      "durationMonths": 12,
+      "salaryCoefficient": 4.32
+    }
+  ],
+  "training": [
+    {
+      "trainingId": "TRAIN-MAU-001",
+      "personId": "PERSON-MAU-001",
+      "trainingType": "Nghiên cứu sinh",
+      "trainingStatus": "Đang học",
+      "startDate": "2026-09-01",
+      "endDate": "2029-08-31"
+    }
+  ],
+  "events": [
+    {
+      "eventId": "EVENT-MAU-001",
+      "personId": "PERSON-MAU-001",
+      "eventType": "Chuyển đơn vị",
+      "toOrganizationCode": "DV-MAU-KHOA",
+      "effectiveDate": "2026-09-01"
+    }
+  ]
+}

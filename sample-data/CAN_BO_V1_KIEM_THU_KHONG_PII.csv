@@ -1,0 +1,3 @@
+staffCode,fullName,birthDate,gender,organizationCode,organization,position,professionalTitle,employmentStatus,startDate,workEmail,degree,major,notes
+VC-DEMO-E2E-001,Nhân Sự Hư Cấu Một,1990-01-15,Nữ,UED-DEMO,Đơn vị kiểm thử UED,Chuyên viên,Chuyên viên,Đang công tác,2026-01-01,fictional.one@example.invalid,Thạc sĩ,Quản trị dữ liệu,Dữ liệu hư cấu không phải người thật
+VC-DEMO-E2E-002,Nhân Sự Hư Cấu Hai,1988-05-20,Nam,UED-DEMO,Đơn vị kiểm thử UED,Giảng viên,Giảng viên,Đang công tác,2025-09-01,fictional.two@example.invalid,Tiến sĩ,Khoa học giáo dục,Dữ liệu hư cấu không phải người thật

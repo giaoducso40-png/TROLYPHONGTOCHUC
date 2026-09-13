@@ -1,0 +1,2 @@
+contractId,staffCode,fullName,birthDate,contractNumber,contractType,organizationCode,organization,startDate,endDate,durationMonths,contractStatus,notes
+HD-DEMO-E2E-001,VC-DEMO-E2E-001,Nhân Sự Hư Cấu Một,1990-01-15,001-HĐ-DEMO,Xác định thời hạn,UED-DEMO,Đơn vị kiểm thử UED,2026-01-01,2027-12-31,24,Đang hiệu lực,Dữ liệu hư cấu không phải hợp đồng thật
